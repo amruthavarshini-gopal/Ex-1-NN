@@ -1,20 +1,25 @@
 <H3>ENTER YOUR NAME</H3>
+AMRUTHAVARSHINI GOPAL
 <H3>ENTER YOUR REGISTER NO.</H3>
+212223230013
 <H3>EX. NO.1</H3>
 <H3>DATE</H3>
+22.08.2025
 <H1 ALIGN =CENTER> Introduction to Kaggle and Data preprocessing</H1>
 
 ## AIM:
 
-To perform Data preprocessing in a data set downloaded from Kaggle
+To perform Data preprocessing in a data set downloaded from Kaggle.
 
 ## EQUIPMENTS REQUIRED:
 Hardware – PCs
+
 Anaconda – Python 3.7 Installation / Google Colab /Jupiter Notebook
 
 ## RELATED THEORETICAL CONCEPT:
 
 **Kaggle :**
+
 Kaggle, a subsidiary of Google LLC, is an online community of data scientists and machine learning practitioners. Kaggle allows users to find and publish data sets, explore and build models in a web-based data-science environment, work with other data scientists and machine learning engineers, and enter competitions to solve data science challenges.
 
 **Data Preprocessing:**
@@ -29,12 +34,22 @@ Another aspect is that the data set should be formatted in such a way that more 
 
 
 ## ALGORITHM:
+
 STEP 1:Importing the libraries<BR>
+
 STEP 2:Importing the dataset<BR>
+
 STEP 3:Taking care of missing data<BR>
+
 STEP 4:Encoding categorical data<BR>
+
 STEP 5:Normalizing the data<BR>
+
 STEP 6:Splitting the data into test and train<BR>
+
+STEP 7:Print the values.
+
+STEP 8:End the program.
 
 ##  PROGRAM:
 TYPE YOUR CODE HERE
@@ -45,6 +60,7 @@ SHOW YOUR OUTPUT HERE
 
 
 ## RESULT:
+
 Thus, Implementation of Data Preprocessing is done in python  using a data set downloaded from Kaggle.
 
 
